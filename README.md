@@ -1,1 +1,1 @@
-Mei.css
+Mei.css is a minimal CSS framework with utilities for my personal projects.
